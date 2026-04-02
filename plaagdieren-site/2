@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Plaagdieren.nl</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>Plaagdieren.nl</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="over-ons.html">Over ons</a>
+    <a href="ongedierte.html">Ongedierte</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>24/7 Ongediertebestrijding</h1>
+  <p>Snel ter plaatse • Professioneel • Betaalbaar</p>
+  <a class="btn" href="contact.html">Direct contact</a>
+</section>
+
+<section class="section">
+  <h2>Onze diensten</h2>
+  <div class="cards">
+    <div class="card">Particulier</div>
+    <div class="card">Zakelijk</div>
+    <div class="card">Preventie</div>
+    <div class="card">Spoedservice</div>
+  </div>
+</section>
+
+<footer>
+  <p>© Plaagdieren.nl - 24/7 service</p>
+</footer>
+
+</body>
+</html>
